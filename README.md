@@ -1,4 +1,4 @@
-# pro_innovateperu
+# PROinnovate Perú
 Preparacion de base de datos que contiene informacion de financiamiento de proyectos de PROINNOVATE Perú.
 
 # Método
